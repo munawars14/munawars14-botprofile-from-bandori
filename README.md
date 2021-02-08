@@ -1,4 +1,4 @@
-# munawars14-botprofile-from-bandori (In Editing Progress)
+# munawars14-botprofile-from-bandori
 This is a modification of the BotProfile of <b>Counter-Strike Condition Zero</b>. I modified the BOT name from the <b>Bang Dream! Girls Band Party</b>. You can use it in <b>Condition Zero</b>, and <b>Counter-Strike 1.6</b> (which supports the base <i>skins</i> of the <b>Spetsnaz</b> and <b>Midwest Militia</b>).
 
 All bots of <b>Bang Dream!</b> characters will appear when you choose difficulty <b>Expert</b> (or using a command on console with <i>bot_difficulty 3</i>).
@@ -114,9 +114,9 @@ Note : The bots with <i>italics</i> will use the specific skin.
 
 # Link Download (Via Google Drive)
 - V 1
-  - Link : <a href=""><b>Waiting ...</b></a>
+  - Link : <a><b>Waiting ...</b></a>
 - V 1.5
-  - Link : <a href=""><b>Waiting ...</b></a>
+  - Link : <a><b>Waiting ...</b></a>
 
 # Trivia
 - All bot names are taken from the games <b>Bang Dream! Girls Band Party</b>.
@@ -126,6 +126,7 @@ Note : The bots with <i>italics</i> will use the specific skin.
 - Bots from <b>Bang Dream! Collaboration Events</b> not included.
 - Check the <b>changelog.txt</b> file to see the update history.
 - Check the <b>readme.txt</b> file to see how to install it.
+- You can <i>still</i> use it in the old version of the <b>Counter-Strike</b> game.
 
 # Special Thanks
 - Bang Dream! Project
