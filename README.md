@@ -126,7 +126,7 @@ Note : The bots with <i>italics</i> will use the specific skin.
 - Bots from <b>Bang Dream! Collaboration Events</b> not included.
 - Check the <b>changelog.txt</b> file to see the update history.
 - Check the <b>readme.txt</b> file to see how to install it.
-- You can <i>still</i> use it in the old version of the <b>Counter-Strike</b> game.
+- You can <i>still</i> use it in the old version of the <b>Counter-Strike</b> game, maybe an <i>error</i> will appear.
 
 # Special Thanks
 - Bang Dream! Project
