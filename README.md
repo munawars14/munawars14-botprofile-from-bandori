@@ -114,9 +114,9 @@ Note : The bots with <i>italics</i> will use the specific skin.
 
 # Link Download (Via Google Drive)
 - V 1
-  - Link : <a><b>Waiting ...</b></a>
+  - Link : <a href="https://drive.google.com/file/d/1Zp5Ze8yjmU9jnmt9_w2pd2jiUbSTDGqu/view"><b>Click Here</b></a>
 - V 1.5
-  - Link : <a><b>Waiting ...</b></a>
+  - Link : <a href="https://drive.google.com/file/d/1ougZSRr2utDY7HM8NJGhdSh6cKHYSUBe/view"><b>Click Here</b></a>
 
 # Trivia
 - All bot names are taken from the games <b>Bang Dream! Girls Band Party</b>.
