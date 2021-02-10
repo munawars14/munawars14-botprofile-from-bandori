@@ -50,52 +50,52 @@ Note : The bots with <i>italics</i> will use the specific skin.
 <H4>B. Band Members</h4>
 
 <B>1. Poppin' Party</b>
-- Kasumi Toyama
-- Tae Hanazono
-- Rimi Ushigome
+- Kasumi Toyama [Skin : 1]
+- Tae Hanazono [Skin : 2]
+- Rimi Ushigome [Skin : 3]
 - <i>Saaya Yamabuki</i>
-- Arisa Ichigaya
+- Arisa Ichigaya [Skin : 4]
 
 <B>2. Afterglow</b>
-- Ran Mitake
-- Moca Aoba
-- Himari Uehara
+- Ran Mitake [Skin : 1]
+- Moca Aoba [Skin : 2]
+- Himari Uehara [Skin : 3]
 - <i>Tomoe Udagawa</i>
-- Tsugumi Hazawa
+- Tsugumi Hazawa [Skin : 4]
 
 <B>3. Hello Happy World</b>
-- Kokoro Tsurumaki
-- Kaoru Seta
+- Kokoro Tsurumaki [Skin : 3]
+- Kaoru Seta [Skin : 2]
 - <i>Hagumi Kitazawa</i>
-- Kanon Matsubara
-- Misaki Okusawa
+- Kanon Matsubara [Skin : 1]
+- Misaki Okusawa [Skin : 4]
 
 <B>4. Pastel*Palettes</b>
-- Aya Maruyama
-- Hina Hikawa
-- Chisato Shirasagi
+- Aya Maruyama [Skin : 1]
+- Hina Hikawa [Skin : 2]
+- Chisato Shirasagi [Skin : 4]
 - <i>Maya Yamato</i>
-- Eve Wakamiya
+- Eve Wakamiya [Skin : 3]
 
 <B>5. Roselia</b>
-- Yukina Minato
-- Sayo Hikawa
-- Lisa Imai
+- Yukina Minato [Skin : 1]
+- Sayo Hikawa [Skin : 2]
+- Lisa Imai [Skin : 3]
 - <i>Ako Udagawa</i>
-- Rinko Shirokane
+- Rinko Shirokane [Skin : 4]
 
 <B>6. Morfonica</b>
-- Mashiro Kurata
-- Touko Kirigaya
-- Nanami Hiromachi
-- Tsukushi Futaba
+- Mashiro Kurata [Skin : 4]
+- Touko Kirigaya [Skin : 2]
+- Nanami Hiromachi [Skin : 1]
+- Tsukushi Futaba [Skin : 3]
 - <i>Rui Yashio</i>
 
 <B>7. Raise A Suilen</b>
-- Rei Wakana or Layer
-- Rokka Asahi or Lock
-- Masuki Satou or Masking
-- Reona Nyubara or Pareo
+- Rei Wakana or Layer [Skin : 1]
+- Rokka Asahi or Lock [Skin : 2]
+- Masuki Satou or Masking [Skin : 3]
+- Reona Nyubara or Pareo [Skin : 4]
 - Chiyu Tamade or <i>Chu2</i>
 
 <B>8. Glitter*Green</b>
@@ -111,6 +111,16 @@ Note : The bots with <i>italics</i> will use the specific skin.
 - Fumika Mori
 
 Note : The bots with <i>italics</i> will use the specific skin.
+
+<H4>C. Skin Classification</h4>
+
+The bots will always pick a certain faction skin, their presets based on their numbering in the faction select menu.
+
+- Skin = 1 : <a href="https://counterstrike.fandom.com/wiki/SEAL_Team_6">SEAL Team 6</a> / <a href="https://counterstrike.fandom.com/wiki/Phoenix_Connexion">Phoenix Connexion</a><br>
+- Skin = 2 : <a href="https://counterstrike.fandom.com/wiki/GSG-9">GSG-9</a> / <a href="https://counterstrike.fandom.com/wiki/Elite_Crew">Elite Crew</a>
+- Skin = 3 : <a href="https://counterstrike.fandom.com/wiki/SAS">SAS</a> / <a href="https://counterstrike.fandom.com/wiki/Arctic_Avengers">Arctic Avengers</a>
+- Skin = 4 : <a href="https://counterstrike.fandom.com/wiki/GIGN">GIGN</a> / <a href="https://counterstrike.fandom.com/wiki/Guerilla_Warfare">Guerilla Warfare</a>
+- Skin = 5 : <a href="https://counterstrike.fandom.com/wiki/Spetsnaz">Spetsnaz</a> / <a href="https://counterstrike.fandom.com/wiki/Midwest_Militia">Midwest Militia</a>
 
 # Link Download (Via Google Drive)
 - V 1
