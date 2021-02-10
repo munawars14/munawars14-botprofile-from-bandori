@@ -118,6 +118,9 @@ Note : The bots with <i>italics</i> will use the specific skin.
 - V 1.5
   - Link : <a href="https://drive.google.com/file/d/1ougZSRr2utDY7HM8NJGhdSh6cKHYSUBe/view"><b>Click Here</b></a>
 
+# More Information (Via Gamebanana)
+For more information, <a href="https://gamebanana.com/gamefiles/13638"><b>Click Here</b></a>.
+
 # Trivia
 - All bot names are taken from the games <b>Bang Dream! Girls Band Party</b>.
 - Custom Bots will appear on the difficulty <b>Expert</b>.
