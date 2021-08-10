@@ -110,26 +110,26 @@ Note : The bots with <i>italics</i> will use the specific skin.
 - Mayu Kawabata
 - Fumika Mori
 
-Note : The bots with <i>italics</i> will use the specific skin.
+Note : The bots with <i>italics</i> will use the specific skin.</li> For more information, <a target="_blank" href="https://github.com/munawars14/munawars14-botprofile-from-bandori-cscz-desc"><b>Click Here</b></a>.</li>
 
 <H4>C. Skin Classification</h4>
 
 The bots will always pick a certain faction skin, their presets based on their numbering in the faction select menu.
 
-- Skin = 1 : <a href="https://counterstrike.fandom.com/wiki/SEAL_Team_6">SEAL Team 6</a> / <a href="https://counterstrike.fandom.com/wiki/Phoenix_Connexion">Phoenix Connexion</a><br>
-- Skin = 2 : <a href="https://counterstrike.fandom.com/wiki/GSG-9">GSG-9</a> / <a href="https://counterstrike.fandom.com/wiki/Elite_Crew">Elite Crew</a>
-- Skin = 3 : <a href="https://counterstrike.fandom.com/wiki/SAS">SAS</a> / <a href="https://counterstrike.fandom.com/wiki/Arctic_Avengers">Arctic Avengers</a>
-- Skin = 4 : <a href="https://counterstrike.fandom.com/wiki/GIGN">GIGN</a> / <a href="https://counterstrike.fandom.com/wiki/Guerilla_Warfare">Guerilla Warfare</a>
-- Skin = 5 : <a href="https://counterstrike.fandom.com/wiki/Spetsnaz">Spetsnaz</a> / <a href="https://counterstrike.fandom.com/wiki/Midwest_Militia">Midwest Militia</a>
+- Skin = 1 : <a target="_blank" href="https://counterstrike.fandom.com/wiki/SEAL_Team_6">SEAL Team 6</a> / <a href="https://counterstrike.fandom.com/wiki/Phoenix_Connexion">Phoenix Connexion</a><br>
+- Skin = 2 : <a target="_blank" href="https://counterstrike.fandom.com/wiki/GSG-9">GSG-9</a> / <a href="https://counterstrike.fandom.com/wiki/Elite_Crew">Elite Crew</a>
+- Skin = 3 : <a target="_blank" href="https://counterstrike.fandom.com/wiki/SAS">SAS</a> / <a href="https://counterstrike.fandom.com/wiki/Arctic_Avengers">Arctic Avengers</a>
+- Skin = 4 : <a target="_blank" href="https://counterstrike.fandom.com/wiki/GIGN">GIGN</a> / <a href="https://counterstrike.fandom.com/wiki/Guerilla_Warfare">Guerilla Warfare</a>
+- Skin = 5 : <a target="_blank" href="https://counterstrike.fandom.com/wiki/Spetsnaz">Spetsnaz</a> / <a href="https://counterstrike.fandom.com/wiki/Midwest_Militia">Midwest Militia</a>
 
 # Link Download (Via Google Drive)
 - V 1
-  - Link : <a href="https://drive.google.com/file/d/1Zp5Ze8yjmU9jnmt9_w2pd2jiUbSTDGqu/view"><b>Click Here</b></a>
+  - Link : <a target="_blank" href="https://drive.google.com/file/d/1Zp5Ze8yjmU9jnmt9_w2pd2jiUbSTDGqu/view"><b>Click Here</b></a>
 - V 1.5
-  - Link : <a href="https://drive.google.com/file/d/1ougZSRr2utDY7HM8NJGhdSh6cKHYSUBe/view"><b>Click Here</b></a>
+  - Link : <a target="_blank" href="https://drive.google.com/file/d/1ougZSRr2utDY7HM8NJGhdSh6cKHYSUBe/view"><b>Click Here</b></a>
 
 # More Information (Via Gamebanana)
-For more information, <a href="https://gamebanana.com/gamefiles/13638"><b>Click Here</b></a>.
+For more information, <a target="_blank" href="https://gamebanana.com/gamefiles/13638"><b>Click Here</b></a>.
 
 # Trivia
 - All bot names are taken from the games <b>Bang Dream! Girls Band Party</b>.
