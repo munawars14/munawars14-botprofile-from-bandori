@@ -20,8 +20,8 @@ Some selected specified bot will use a specific skins (<b>Spetsnaz</b> and <b>Mi
 <td><b>Elite</b></td>
 </tr>
 <tr>
-<td><i>Random</i></td>
-<td><i>Random</i></td>
+<td>Random</td>
+<td>Random</td>
 <td>Grant<br>
 Greg<br>
 Keith<br>
@@ -34,20 +34,18 @@ Xander</td>
 Ivan<br>
 Zim</td>
 <td>N/A</td>
-<td><i>Rui<br>
-Chu2</i></td>
-<td><i>Saaya<br>
+<td>Rui<br>
+Chu2</td>
+<td>Saaya<br>
 Tomoe<br>
 Hagumi<br>
 Maya<br>
-Ako</i></td>
+Ako</td>
 </tr>
 </tbody>
 </table>
 
-Note : The bots with <i>italics</i> will use the specific skin.
-
-<H4>B. Band Members</h4>
+<H4>B. Members</h4>
 
 <B>1. Poppin' Party</b>
 - Kasumi Toyama [Skin : 1]
@@ -86,7 +84,7 @@ Note : The bots with <i>italics</i> will use the specific skin.
 
 <B>6. Morfonica</b>
 - Mashiro Kurata [Skin : 4]
-- Touko Kirigaya [Skin : 2]
+- Toko Kirigaya [Skin : 2]
 - Nanami Hiromachi [Skin : 1]
 - Tsukushi Futaba [Skin : 3]
 - <i>Rui Yashio</i>
@@ -110,6 +108,10 @@ Note : The bots with <i>italics</i> will use the specific skin.
 - Mayu Kawabata
 - Fumika Mori
 
+<B>10. Others</b>
+- Asuka Toyama
+- Marina Tsukishima
+
 Note : The bots with <i>italics</i> will use the specific skin.</li> For more information, <a target="_blank" href="https://github.com/munawars14/munawars14-botprofile-from-bandori-cscz-desc"><b>Click Here</b></a>.</li>
 
 <H4>C. Skin Classification</h4>
@@ -123,23 +125,21 @@ The bots will always pick a certain faction skin, their presets based on their n
 - Skin = 5 : <a target="_blank" href="https://counterstrike.fandom.com/wiki/Spetsnaz">Spetsnaz</a> / <a href="https://counterstrike.fandom.com/wiki/Midwest_Militia">Midwest Militia</a>
 
 # Link Download (Via Google Drive)
-- V 1
+- <b>V 1</b>
   - Link : <a target="_blank" href="https://drive.google.com/file/d/1Zp5Ze8yjmU9jnmt9_w2pd2jiUbSTDGqu/view"><b>Click Here</b></a>
-- V 1.5
+- <b>V 1.5</b>
   - Link : <a target="_blank" href="https://drive.google.com/file/d/1ougZSRr2utDY7HM8NJGhdSh6cKHYSUBe/view"><b>Click Here</b></a>
+- <b>V 2</b>
+  - Link : <a target="_blank" href="https://drive.google.com/file/d/14ccVZjtG7LWLkWkEOsNxUZdxYhDILJZ4/view"><b>Click Here</b></a>
+- <b>V 2.5</b>
+  - Link : <a target="_blank" href="https://drive.google.com/file/d/1H72irc_kUsQC6jeR38OVen2zkVoNdZAW/view"><b>Click Here</b></a>
+- <b>V 3 (Newest)</b>
+  - Link : <a target="_blank" href="https://drive.google.com/file/d/17rOw7c7Pt1fbr6ocV3uP7pdC7N_NdUL5/view"><b>Click Here</b></a>
+
+Note : It is recommended to download the latest version.
 
 # More Information (Via Gamebanana)
 For more information, <a target="_blank" href="https://gamebanana.com/gamefiles/13638"><b>Click Here</b></a>.
-
-# Trivia
-- All bot names are taken from the games <b>Bang Dream! Girls Band Party</b>.
-- Custom Bots will appear on the difficulty <b>Expert</b>.
-- Bots from <b>Glitter*Green</b> and <b>CHiSPA</b> band members will <i>keep</i> appear on difficulty <b>Hard</b> and <b>Expert</b>.
-- On the <b>Specified BOT</b> feature, <b>Raise A Suilen</b> band members will use the <b>Stage Name</b>.
-- Bots from <b>Bang Dream! Collaboration Events</b> not included.
-- Check the <b>changelog.txt</b> file to see the update history.
-- Check the <b>readme.txt</b> file to see how to install it.
-- You can <i>still</i> use it in the old version of the <b>Counter-Strike</b> game, maybe an <i>error</i> will appear.
 
 # Special Thanks
 - Bang Dream! Project
